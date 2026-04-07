@@ -4,7 +4,7 @@ services:
     runtime: python
     pythonVersion: "3.11"
     buildCommand: pip install --upgrade pip && pip install -r backend/requirements.txt
-    startCommand: cd backend && python main.py
+    startCommand: cd backend && python main.py --all
     envVars:
       - key: SUPABASE_URL
         sync: false
