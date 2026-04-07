@@ -182,8 +182,9 @@ Pipeline Stages:
     elif args.all:
         indexes_to_process = get_all_index_names()
     else:
-        parser.print_help()
-        return 0
+        # If no arguments provided, process all indexes automatically
+        logger.info('No specific indexes specified, processing all configured indexes...')
+        indexes_to_process = get_all_index_names()
 
     # Validate indexes
     valid_indexes = []
