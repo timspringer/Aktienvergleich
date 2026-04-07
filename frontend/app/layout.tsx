@@ -7,8 +7,6 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Aktienvergleich - Stock Index Data Comparison',
   description: 'Compare stock valuation estimates across global indexes',
-  charset: 'utf-8',
-  viewport: 'width=device-width, initial-scale=1',
 }
 
 export default function RootLayout({
