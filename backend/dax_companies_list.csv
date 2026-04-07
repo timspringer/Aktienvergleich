@@ -1,0 +1,41 @@
+rank,isin,ticker,name,sector,url
+1,DE0007236101,SIE,Siemens,Industriekonglomerat,https://www.finanzen.net/aktien/siemens-aktie
+2,DE0007164600,SAP,SAP SE,Software,https://www.finanzen.net/aktien/sap-aktie
+3,DE0008404005,ALV,Allianz SE,Versicherungen,https://www.finanzen.net/aktien/allianz-aktie
+4,DE0006062144,MUN,Munich Re,Versicherungen,https://www.finanzen.net/aktien/munich-re-aktie
+5,DE0005140008,DTE,Deutsche Telekom,Telekommunikation,https://www.finanzen.net/aktien/deutsche-telekom-aktie
+6,DE0005103006,BAS,BASF SE,Chemie,https://www.finanzen.net/aktien/basf-aktie
+7,DE0005933931,BMW,BMW AG,Automobilhersteller,https://www.finanzen.net/aktien/bmw-aktie
+8,DE0006095006,MBG,Mercedes-Benz Group,Automobilhersteller,https://www.finanzen.net/aktien/mercedes-benz-aktie
+9,DE0008092008,DAI,Daimler Truck,Automobilhersteller,https://www.finanzen.net/aktien/daimler-truck-aktie
+10,DE0005557508,IFX,Infineon,Halbleiter,https://www.finanzen.net/aktien/infineon-aktie
+11,DE0005449500,MEO,Merck KGaA,Pharma/Chemie,https://www.finanzen.net/aktien/merck-kgaa-aktie
+12,DE0006814003,LIN,Linde plc,Chemie,https://www.finanzen.net/aktien/linde-aktie
+13,DE0005439004,DB1,Deutsche Börse,Finanzdienstleistungen,https://www.finanzen.net/aktien/deutsche-boerse-aktie
+14,DE0006289382,VOW,Volkswagen AG,Automobilhersteller,https://www.finanzen.net/aktien/volkswagen-aktie
+15,DE0005664809,EON,E.ON SE,Energie,https://www.finanzen.net/aktien/eon-aktie
+16,DE0008232444,ZAL,Zalando SE,E-Commerce,https://www.finanzen.net/aktien/zalando-aktie
+17,DE0007236631,VNA,Vonovia SE,Immobilien,https://www.finanzen.net/aktien/vonovia-aktie
+18,DE0005470405,LEG,LEG Immobilien SE,Immobilien,https://www.finanzen.net/aktien/leg-immobilien-aktie
+19,DE0006286799,FRE,Fresenius SE,Gesundheitswesen,https://www.finanzen.net/aktien/fresenius-aktie
+20,DE0007595307,RAT,Rational AG,Großküchengeräte,https://www.finanzen.net/aktien/rational-aktie
+21,DE0004712400,SRT,Sartorius AG,Labortechnik,https://www.finanzen.net/aktien/sartorius-aktie
+22,DE0007030009,RHM,Rheinmetall AG,Rüstung,https://www.finanzen.net/aktien/rheinmetall-aktie
+23,DE0007100000,RWE,RWE AG,Energie,https://www.finanzen.net/aktien/rwe-aktie
+24,DE0007045591,SHL,Siemens Healthineers,Medizintechnik,https://www.finanzen.net/aktien/siemens-healthineers-aktie
+25,DE0005116365,SY1,Symrise AG,Chemie,https://www.finanzen.net/aktien/symrise-aktie
+26,DE0006452907,CBK,Commerzbank,Banken,https://www.finanzen.net/aktien/commerzbank-aktie
+27,DE0005200000,BEI,Beiersdorf AG,Konsumgüter,https://www.finanzen.net/aktien/beiersdorf-aktie
+28,DE0008404005,EVK,Evonik Industries,Chemie,https://www.finanzen.net/aktien/evonik-aktie
+29,DE0006602006,G1A,GEA Group,Maschinenbau,https://www.finanzen.net/aktien/gea-group-aktie
+30,DE0005270708,HEI,Heidelberg Materials,Baustoffe,https://www.finanzen.net/aktien/heidelberg-materials-aktie
+31,DE0005408790,HFG,HelloFresh SE,Food Delivery,https://www.finanzen.net/aktien/hellofresh-aktie
+32,DE0006202005,KSX,K+S AG,Chemie,https://www.finanzen.net/aktien/k-s-aktie
+33,DE0006232009,KBX,Knorr-Bremse AG,Automobilzulieferer,https://www.finanzen.net/aktien/knorr-bremse-aktie
+34,DE0006408705,NDX1,Nordex SE,Windenergie,https://www.finanzen.net/aktien/nordex-aktie
+35,DE0008469008,SAX,Scout24 SE,Internetdienstleistungen,https://www.finanzen.net/aktien/scout24-aktie
+36,DE0008044000,ENR,Siemens Energy,Energietechnik,https://www.finanzen.net/aktien/siemens-energy-aktie
+37,DE0008305006,TLX,Talanx AG,Versicherungen,https://www.finanzen.net/aktien/talanx-aktie
+38,DE0006599905,TTM,Traton SE,Automobilhersteller,https://www.finanzen.net/aktien/traton-aktie
+39,DE0005440088,HNR1,Henkel AG,Konsumgüter,https://www.finanzen.net/aktien/henkel-aktie
+40,DE0008495823,CON,Continental AG,Automobilzulieferer,https://www.finanzen.net/aktien/continental-aktie
